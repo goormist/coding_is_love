@@ -24,28 +24,28 @@
 무엇을 만들어볼까요?
 --------------
 
-구름에 가입하시고 다음과 같은 프로젝트를 공유해드립니다!
+구름에 가입하시고, 아이디를 알려주시면 다음과 같은 프로젝트를 공유해드립니다!
 
 **웹 개발 관련**
 
 - 빙고 게임
 
-    https://github.com/goormist/node-bingo
+    상세 설명: https://github.com/goormist/node-bingo
 
 - 로보 코드 JS
 
-    https://github.com/goormist/node-bingo
+    상세 설명: https://github.com/goormist/robocode-js
 
 
 **교육 컨텐츠 관련**
 
 - 씨백: C언어 마스터! 100제
 
-    https://github.com/goormist/c100
+    상세 설명: https://github.com/goormist/c100
 
 - 파이백: Python 마스터! 100제
 
-    https://github.com/goormist/py100
+    상세 설명: https://github.com/goormist/py100
 
 
 
