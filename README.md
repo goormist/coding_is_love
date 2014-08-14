@@ -43,7 +43,7 @@
 
 "모두가 볼 수 있는 + 바로 실습해볼 수 있는" 구름EDU의 E-Book 모드로 볼수 있는 컨텐츠를 "구름EDU에서" 제작하는 프로젝트입니다. 
 
-    [구름IDE E-Book 모드란?](https://github.com/goormist/coding_is_love/??)
+   [구름IDE E-Book 모드란?](https://github.com/goormist/coding_is_love/??)
 
 - 씨백: C언어 마스터! 100제
 
@@ -65,7 +65,7 @@
 
 구름IDE는 웹브라우저에서 개발할 수 있는 환경을 제공하는 서비스입니다. 개발용 구글 닥스같은 걸로 생각하시면 됩니다!
 
-    http://goorm.io
+   http://goorm.io
 
 
 2. 아이디를 알려주세요! 
