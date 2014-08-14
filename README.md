@@ -28,6 +28,8 @@
 
 **웹 개발 관련**
 
+구름IDE에서 개발을 하고, 
+
 - 빙고 게임
 
     상세 설명: https://github.com/goormist/node-bingo
@@ -37,7 +39,11 @@
     상세 설명: https://github.com/goormist/robocode-js
 
 
-**교육 컨텐츠 관련**
+**교육용 컨텐츠 관련** 
+
+"모두가 볼 수 있는 + 바로 실습해볼 수 있는" 구름EDU의 E-Book 모드로 볼수 있는 컨텐츠를 "구름EDU에서" 제작하는 프로젝트입니다. 
+
+[구름IDE E-Book 모드란?](https://github.com/goormist/coding_is_love/??)
 
 - 씨백: C언어 마스터! 100제
 
