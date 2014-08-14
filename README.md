@@ -82,7 +82,7 @@
 
     contact@goorm.io
     https://www.facebook.com/goormIDE
-    또는 구름IDE 개발자가 여러분 속에 섞여 있을 수도!
+    또는 구름IDE 개발자가 채팅방 안에 여러분들과 섞여 있을 수도!
 
 
 
